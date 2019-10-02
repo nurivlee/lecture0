@@ -1,0 +1,26 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 50px;
+}
+#mainContent {
+    font-size: 34px;
+}
+#secondContent{
+    font-size: 22px;
+    font-family: fantasy;
+}
+#lastContent{
+    font-size: 14px;
+    font-family: fantasy;
+}
+
+@media only screen and (min-width:768px) {
+    .mainContent
+}
+@media only screen and (min-width:768px) {
+    .secondContent
+}
+@media only screen and (min-width:768px) {
+    .lastContent
+}
